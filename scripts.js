@@ -1,4 +1,4 @@
-$(document).ready(function()){
-    alert("jQuery ready");               
-        
-     });
+$(document).ready(function () {
+    alert("jQuery ready");
+});
+
