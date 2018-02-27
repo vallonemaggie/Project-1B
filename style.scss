@@ -1,3 +1,15 @@
+.info-box{
+    button{
+        
+    }
+    p{
+        display: none;
+    }
+    p.visible{
+        display: block;
+    }
+}
+
 h1{
     color: coral;
 }
